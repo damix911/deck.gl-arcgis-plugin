@@ -22,8 +22,7 @@
     "webpack-dev-server": "^3.1.10"
   },
   "license": "Apache-2.0",
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
     "@arcgis/webpack-plugin": "~4.13.0",
     "deck.gl": "^8.0.5"
